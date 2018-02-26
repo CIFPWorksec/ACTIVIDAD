@@ -17,6 +17,8 @@ public class HolaMundo {
     public static void main(String[] args) {
        System.out.print("Primera linea");
        System.out.print("Segunda linea");
+       System.out.print("Linea1 Rama24");
+       System.out.print("Linea2 Rama24");
     }
     
 }
